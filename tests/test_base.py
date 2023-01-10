@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from fex_cli_api.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "fex_cli_api"
